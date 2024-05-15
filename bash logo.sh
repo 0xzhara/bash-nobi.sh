@@ -1,8 +1,5 @@
 #!/bin/bash
 
-echo "Displaying Airdrop Nobi logo..."
-sleep 1
-
 cat << "EOF"
 
   ___   _            _                       _   _         _      _ 
