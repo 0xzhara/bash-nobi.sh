@@ -15,4 +15,4 @@ cat << "EOF"
 EOF
 
 echo "Join the Airdrop Nobi Telegram channel: https://t.me/airdropnobi"
-sleep 2
+sleep 1
