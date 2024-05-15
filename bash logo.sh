@@ -14,5 +14,3 @@ cat << "EOF"
 |/       |/     \||/       |/     \|(_______/(_______/|/   \__/
 EOF
 
-echo "Join the Airdrop Nobi Telegram channel: https://t.me/airdropnobi"
-sleep 1
